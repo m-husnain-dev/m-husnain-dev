@@ -1,16 +1,23 @@
-## Hi there 👋
+💫 About Me:
+Hi, I’m Husnain 👋
+🚀 AI Engineer | Machine Learning | Deep Learning
 
-<!--
-**m-husnain-dev/m-husnain-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on:
+- AI projects (Computer Vision / NLP)
 
-Here are some ideas to get you started:
+🤝 I’m looking to collaborate on:
+- Open-source AI projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 I’m learning:
+- LLMs, Transformers, MLOps
+
+💬 Ask me about:
+- Python, ML, AI concepts
+
+⚡ Fun fact:
+- I love solving real-world problems using AI
+🌐 Socials:
+LinkedIn email
+
+💻 Tech Stack:
+C# C++ JavaScript Python .Net MicrosoftSQLServer Pandas NumPy TensorFlow PyTorch Matplotlib mlflow Git GitHub Jasmine Testing-Library
