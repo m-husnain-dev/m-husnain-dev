@@ -1,5 +1,5 @@
 # 💫 About Me:
-[# Hi, I'm Husnain 👋<br>🚀 Sofware Engineer | AI | Machine Learning | Deep Learning<br><br>🔭 I’m currently working on:<br>-Programming projects | AI projects (Computer Vision / NLP)<br><br>🤝 I’m looking to collaborate on:<br>- Open-source Softwares | Open-source AI projects<br><br>🧠 I’m learning:<br>-Programming,  LLMs, Transformers, MLOps<br><br>💬 Ask me about:<br>- Python, ML, AI concepts<br><br>⚡ Fun fact:<br>- I love solving real-world problems using AI](https://github.com/session)
+[# Hi, I'm Husnain 👋<br>🚀 Sofware Engineer | AI | Machine Learning | Deep Learning<br><br>🔭 I’m currently working on:<br>-Programming projects | AI projects (Computer Vision / NLP)<br><br>🤝 I’m looking to collaborate on:<br>- Open-source Softwares | Open-source AI projects<br><br>🧠 I’m learning:<br>-Programming,  LLMs, Transformers, MLOps<br><br>💬 Ask me about:<br>- Python, ML, AI concepts<br><br>⚡ Fun fact:<br>- I love solving real-world problems using AI] (https://github.com/session)
 
 
 ## 🌐 Socials:
